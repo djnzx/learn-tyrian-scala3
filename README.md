@@ -25,3 +25,6 @@ npm run start
 ```shell
 open http://localhost:1234
 ```
+
+https://github.com/djnzx/learning-tyrian-scala3
+http://localhost:1234
